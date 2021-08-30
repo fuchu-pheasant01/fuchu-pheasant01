@@ -1,4 +1,4 @@
-## マイプロフィール 
+## ステータス 
 
 <img src="https://img.shields.io/badge/-Eclipseide-2C2255.svg?logo=eclipseide&style=plastic"><img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">  
 <img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=plastic">  
