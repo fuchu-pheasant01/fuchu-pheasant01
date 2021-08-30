@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/-eclipse-2C2255.svg?logo=Eclipse&style=popout">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fuchu-pheasant01&theme=gruvbox)](https://github.com/fuchu-pheasant01/github-profile-trophy)
+
 <!--
 **fuchu-pheasant01/fuchu-pheasant01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
