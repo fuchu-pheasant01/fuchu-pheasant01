@@ -1,4 +1,7 @@
-### Hi there 👋
+## マイプロフィール 
+
+<img src="https://img.shields.io/badge/-eclipse-2C2255.svg?logo=Eclipse&style=popout">
+<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
 
 <!--
 **fuchu-pheasant01/fuchu-pheasant01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
