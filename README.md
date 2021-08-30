@@ -4,6 +4,9 @@
 <img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=plastic">  
 [![trophy](https://github-profile-trophy.vercel.app/?username=fuchu-pheasant01&theme=gruvbox)](https://github.com/fuchu-pheasant01/github-profile-trophy)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuchu-pheasant01&theme=radical)
+![fuchu-pheasant01's github stats](https://github-readme-stats.vercel.app/api?username=fuchu-pheasant01&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **fuchu-pheasant01/fuchu-pheasant01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
