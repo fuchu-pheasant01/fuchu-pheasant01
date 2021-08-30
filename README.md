@@ -1,7 +1,7 @@
 ## ステータス 
 
 <img src="https://img.shields.io/badge/-Eclipseide-2C2255.svg?logo=eclipseide&style=plastic"><img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">  
-<img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=plastic">  
+<img src="https://img.shields.io/badge/-Microsoft SQL Server-777700.svg?logo=microsoft-sql-server&style=plastic"><img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=plastic">  
 [![trophy](https://github-profile-trophy.vercel.app/?username=fuchu-pheasant01&theme=gruvbox)](https://github.com/fuchu-pheasant01/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuchu-pheasant01&theme=radical)
