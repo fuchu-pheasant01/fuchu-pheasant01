@@ -9,7 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=MyBatisDesktopSqlSvr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fuchu-pheasant01&theme=gruvbox)](https://github.com/fuchu-pheasant01/github-profile-trophy)
+### [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=fuchu-pheasant01&theme=algolia)](https://github.com/fuchu-pheasant01/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/fuchu-pheasant01/fuchu-pheasant01/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/fuchu-pheasant01/fuchu-pheasant01/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
