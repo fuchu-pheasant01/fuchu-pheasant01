@@ -5,7 +5,7 @@
 </a>    
 
 <img src="https://img.shields.io/badge/-Eclipseide-2C2255.svg?logo=eclipseide&style=plastic"><img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">  
-<a href="https://www.microsoft.com/ja-jp/sql-server/sql-server-2019">
+<a href="https://www.microsoft.com/ja-jp/sql-server/sql-server-2019" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-777700.svg?logo=microsoft-sql-server&style=plastic"><img src="https://img.shields.io/badge/-Dot%20net-5C2D91.svg?logo=dot-net&style=plastic">
 </a>  
 
