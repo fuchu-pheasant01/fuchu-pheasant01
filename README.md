@@ -3,6 +3,9 @@
 <img src="https://img.shields.io/badge/-Microsoft Visual Studio-5C2D91.svg?logo=visual-studio&style=plastic" height="25">
 </a>
 <a href="https://visualstudio.microsoft.com/ja/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-Visual Basic .NET-512BD4.svg?logo=.net&style=plastic" height="25">
+</a>
+<a href="https://visualstudio.microsoft.com/ja/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=csharp&style=plastic" height="25">
 </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer">
@@ -10,6 +13,9 @@
 </a>
 <a href="https://www.oracle.com/jp/java/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic" height="25">  
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=plastic" height="25">  
 </a>
 <a href="https://www.microsoft.com/ja-jp/sql-server/sql-server-2019" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-777700.svg?logo=microsoft-sql-server&style=plastic" height="25">
