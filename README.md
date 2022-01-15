@@ -43,6 +43,9 @@
 [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=JavaFxSample&theme=nord)](https://github.com/fuchu-pheasant01/JavaFxSample)
 [![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=WpfStarterLearning&theme=nord)](https://github.com/fuchu-pheasant01/WpfStarterLearning)
 [![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=UwpStarterLearning&theme=nord)](https://github.com/fuchu-pheasant01/UwpStarterLearning)
+[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=Junit4Sample&theme=nord)](https://github.com/fuchu-pheasant01/Junit4Sample)
+[![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=Junit5Sample&theme=nord)](https://github.com/fuchu-pheasant01/Junit5Sample)
+[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=fuchu-pheasant01&repo=MsTestSample&theme=nord)](https://github.com/fuchu-pheasant01/MsTestSample)
 
 ***
 
